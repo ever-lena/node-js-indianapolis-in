@@ -153,3 +153,12 @@ While Node.js suits asynchronous I/O best, long-running CPU work may run better 
 In closing, while Node.js enabled asynchronous programming styles that excelled at IO-bound applications, its single-threaded nature imposed limitations for workloads requiring intensive CPU processing and scaling across cores. This negatively impacted the ability of data and computation-heavy Node applications to achieve optimal performance and scalability. The introduction of worker threads changes the calculus by allowing Node.js to take advantage of modern multicore hardware through parallel execution. Threads empower developers to efficiently distribute processing tasks across CPU cores using thread pools and shared memory messaging. This removes previous bottlenecks, allowing Node apps to harness the full processing power available. 
 
 At Hybrid Web Agency, our expertise in delivering top-tier  [Node.js development Services In Indianapolis, IN](https://hybridwebagency.com/indianapolis-in/custom-laravel-development-services/) leverages threads to architect scalable systems optimized for customers' unique business requirements. Whether modernizing legacy architectures, building microservice-based systems, or deploying robust cloud infrastructure - we help maximize the potential of your Node applications through tailored optimization strategies. Contact our team today to discuss how leveraging our Node.js threading knowledge can help propel your business through increased performance and scalability.
+
+
+## References
+- Node.js documentation on worker threads: https://nodejs.org/api/worker_threads.html
+- Documentation page explaining multi-threading model in Node.js: https://nodejs.org/api/worker_threads.html#multithreaded-javascript
+- Guide on using thread pools with worker_threads: https://nodejs.org/api/worker_threads.html#thread-pools
+- Articles on Node.js performance best practices from Node.js foundation: https://nodejs.org/en/docs/guides/nodejs-performance-best-practices/
+- Documentation for known asynchronous functions in core Node.js modules: https://nodejs.org/api/async_hooks.html
+- Reference documentation for Cluster module used for multi-processing: https://nodejs.org/api/cluster.html
