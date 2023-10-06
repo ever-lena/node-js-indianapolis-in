@@ -1,8 +1,7 @@
-Here is another variation on the introduction:
 
 # The Definitive Guide to Maximizing Node.js Performance with Worker Threads
 
-Node.js has transformed backend development by allowing developers to use a single JavaScript runtime for both frontend and backend code. This has provided huge benefits to teams at Hybrid Web Agency. However, Node.js' asynchronous and single-threaded nature presents challenges for processing intensive workloads.
+Node.js has transformed backend development by allowing developers to use a single JavaScript runtime for both frontend and backend code. This has provided huge benefits to teams at [Hybrid Web Agency](https://hybridwebagency.com/). However, Node.js' asynchronous and single-threaded nature presents challenges for processing intensive workloads.
 
 ## Understanding the Performance Pitfalls of Asynchronous Programming 
 
